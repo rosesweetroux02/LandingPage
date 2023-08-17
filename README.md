@@ -1,3 +1,3 @@
 # Landing_Page
-- This is a final project for Workshop 1 as a SheCodes student.🥇
+- This represents the concluding project for Workshop Basics as part of my experience as a SheCodes student.🥇
 - HTML | CSS | JS 📜
